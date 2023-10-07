@@ -35,6 +35,7 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
 ## Models Performance
 * The overall classification performance for both single-task and multi-task settings including the Preference, Profanity, and Bias tasks.
 * The AUROC and PRROC for the Bias task represent the average values across all biases. Detailed AUROC, PRROC, and F1-scores for each bias type are available in our paper.
+* [Download Models](https://drive.google.com/drive/folders/1MmtNrZba9_x_YpPG_ELYO6cZ9VwNMOIf?usp=drive_link)
 <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/performance.png" width=75%/></p>
 
 ## Citation
