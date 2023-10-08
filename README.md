@@ -25,17 +25,23 @@
 
 ## Dataset
 sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcinside.com/), a well-known online community in South Korea
+
+ [Download Dataset](https://drive.google.com/drive/folders/1E1xFJyWeOzfAmAwoeX3LpQCVkIgwUSSU?usp=sharing)
+ 
 * Labeled Dataset : Train Dataset (38,361 comments/5MB), Test Dataset (2,000 comments/286KB)
 * Unlabeled Dataset (110,000 comments/11.5MD)
-* [Download Dataset](https://drive.google.com/drive/folders/1E1xFJyWeOzfAmAwoeX3LpQCVkIgwUSSU?usp=sharing)
+
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_configuration.png" width=70%/></p>
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_example.png" width=90%/></p>
 
   
 ## Models Performance
-* The overall classification performance for both single-task and multi-task settings including the Preference, Profanity, and Bias tasks.
-* The AUROC and PRROC for the Bias task represent the average values across all biases. Detailed AUROC, PRROC, and F1-scores for each bias type are available in our paper.
-* [Download Models](https://drive.google.com/drive/folders/1MmtNrZba9_x_YpPG_ELYO6cZ9VwNMOIf?usp=drive_link)
-<p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/performance.png" width=75%/></p>
+[Download Models](https://drive.google.com/drive/folders/1MmtNrZba9_x_YpPG_ELYO6cZ9VwNMOIf?usp=drive_link)
+* The overall classification performance for both single-task and multi-task settings including the Preference, Profanity, and Bias tasks. The AUROC and PRROC for the Bias task represent the average values across all biases.
+<p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/performance.png" width=70%/></p>
+
+* Detailed AUROC, F1-score, and PRROC results for each specific bias type.
+<p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/bias_task_perfomance.png" width=110%/></p>
+
 
 ## Citation
