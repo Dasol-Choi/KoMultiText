@@ -46,7 +46,9 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
 
 
 ## Citation
-```
+If this work can be useful for your research, please cite our paper:
+
+<pre>
 @misc{choi2023largescale,
       title={Large-Scale Korean Text Dataset for Classifying Biased Speech in Real-World Online Services}, 
       author={Dasol Choi and Jooyoung Song and Eunsun Lee and Jinwoo Seo and Heejune Park and Dongbin Na},
@@ -55,4 +57,4 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-```
+<\pre>
