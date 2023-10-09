@@ -58,4 +58,3 @@ If this work can be useful for your research, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-<\pre>
