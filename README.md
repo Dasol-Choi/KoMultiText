@@ -28,9 +28,10 @@
 sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcinside.com/), a well-known online community in South Korea
 
  [Download Dataset](https://drive.google.com/drive/folders/1E1xFJyWeOzfAmAwoeX3LpQCVkIgwUSSU?usp=sharing)
- 
-* Labeled Dataset : Train Dataset (38,361 comments/5MB), Test Dataset (2,000 comments/286KB)
-* Unlabeled Dataset (110,000 comments/11.5MD)
+
+* Total 150,000 comments
+  * Labeled Dataset : Train Dataset (38,361 comments/5MB), Test Dataset (2,000 comments/286KB)
+  * Unlabeled Dataset (110,000 comments/11.5MD)
 
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_configuration.png" width=70%/></p>
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_example.png" width=90%/></p>
