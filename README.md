@@ -1,7 +1,7 @@
 # KoMultiText
 ### Korean Multi-task Dataset for Classifying Biased Speech in Real-World Online Services
 * This repository provides Korean Multi-task Text Dataset and PyTorch implementations for classifacation models.
-* This work is presented at arXiv
+* This work is presented at [ArXiv](https://arxiv.org/abs/2310.04313)
 <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/model.png" width=90%/></p>
 
 ## Author
@@ -45,3 +45,13 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
 
 
 ## Citation
+```
+@misc{choi2023largescale,
+      title={Large-Scale Korean Text Dataset for Classifying Biased Speech in Real-World Online Services}, 
+      author={Dasol Choi and Jooyoung Song and Eunsun Lee and Jinwoo Seo and Heejune Park and Dongbin Na},
+      year={2023},
+      eprint={2310.04313},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
