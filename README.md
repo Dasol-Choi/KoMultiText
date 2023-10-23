@@ -1,7 +1,10 @@
 # KoMultiText
 [![arXiv](https://img.shields.io/badge/arXiv-2310.04313-b31b1b.svg)](https://arxiv.org/abs/2310.04313)
 ### Korean Multi-task Dataset for Classifying Biased Speech in Real-World Online Services
+> Accepted to the NeurIPS 2023 Workshop on Socially Responsible Language Modelling Research (SoLaR)
+
 * This repository provides Korean Multi-task Text Dataset and PyTorch implementations for classification models.
+* This work is accepted to the <b>NeurIPS 2023</b> workshop on [Socially Responsible Language Modelling Research (SoLaR)](https://solar-neurips.github.io/).
 
 <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/model.png" width=90%/></p>
 
