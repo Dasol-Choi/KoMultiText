@@ -9,7 +9,7 @@
 <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/model.png" width=90%/></p>
 
 ## Author
-[Dasol Choi](https://github.com/Dasol-Choi), [Donbin Na](https://github.com/ndb796), [Jooyoung Song](https://github.com/Song-Joo-Young)
+[Dasol Choi](https://github.com/Dasol-Choi), [Jooyoung Song](https://github.com/Song-Joo-Young), [Eunsun Lee](https://github.com/eunsun111), [Jinwoo Seo](https://github.com/dukong1),  [Heejune Park](https://github.com/heejunepark), [Donbin Na](https://github.com/ndb796), 
 
 
 ## Abstract
