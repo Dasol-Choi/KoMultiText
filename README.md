@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/model.png" width=90%/></p>
 
-## Author
+## Authors
 [Dasol Choi](https://github.com/Dasol-Choi), [Jooyoung Song](https://github.com/Song-Joo-Young), [Eunsun Lee](https://github.com/eunsun111), [Jinwoo Seo](https://github.com/dukong1),  [Heejune Park](https://github.com/heejunepark), [Donbin Na](https://github.com/ndb796), 
 
 
@@ -33,7 +33,7 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
  [Download Dataset](https://drive.google.com/drive/folders/1E1xFJyWeOzfAmAwoeX3LpQCVkIgwUSSU?usp=sharing)
 
 * Total 150,000 comments
-  * Labeled Dataset : Train Dataset (38,361 comments/5MB), Test Dataset (2,000 comments/286KB)
+  * Labeled Dataset: Train Dataset (38,361 comments/5MB), Test Dataset (2,000 comments/286KB)
   * Unlabeled Dataset (110,000 comments/11.5MD)
 
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_configuration.png" width=70%/></p>
