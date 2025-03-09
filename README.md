@@ -37,12 +37,16 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_configuration.png" width=70%/></p>
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_example.png" width=90%/></p>
 
-* Loading the Dataset
+### Loading the Dataset
 ```python
 from datasets import load_dataset
 
+# Load the dataset 
 dataset = load_dataset("Dasool/KoMultiText")
-print(dataset["test"][0])
+
+# Access train and test splits
+train_dataset = dataset["train"]
+test_dataset = dataset["test"]
 ```
   
 ## Models Performance
