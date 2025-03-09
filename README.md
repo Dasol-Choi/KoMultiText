@@ -38,6 +38,7 @@ sourced from a forum, "Real-time Best Gallery", of [DC Inside](https://www.dcins
  <p align="center"><img src="https://github.com/Dasol-Choi/KoMultiText/blob/main/resources/dataset_example.png" width=90%/></p>
 
 ### Loading the Dataset
+- [KoMultiText (huggingface)](https://huggingface.co/datasets/Dasool/KoMultiText)
 ```python
 from datasets import load_dataset
 
@@ -47,6 +48,14 @@ dataset = load_dataset("Dasool/KoMultiText")
 # Access train and test splits
 train_dataset = dataset["train"]
 test_dataset = dataset["test"]
+```
+- [DC_inside_comments (huggingface)](https://huggingface.co/datasets/Dasool/DC_inside_comments) - unlabeled 110,000 comments
+```python
+from datasets import load_dataset
+
+# Load the unlabeled dataset
+dataset = load_dataset("Dasool/DC_inside_comments")
+print(dataset)
 ```
   
 ## Models Performance
